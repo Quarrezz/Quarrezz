@@ -10,7 +10,7 @@
 - Secret scanning automation
 
 ## 📌 Featured Project
-🔐 Dotenv Secrets Scanner (Coming Soon)
+🔐 Dotenv Secrets Scanner
 
 ---
 
